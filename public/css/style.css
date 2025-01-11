@@ -166,8 +166,8 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-color: #979798;
+  background-image: linear-gradient(to right, #a5a6a7 0%, #6b6b6c 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -184,7 +184,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #79797a;
 }
 .btn:active,
 .btn.active {
@@ -504,7 +504,7 @@ header .intro-text {
   border: 2px solid #fff;
 }
 #contact .btn-custom:hover {
-  color: #1f386e;
+  color: #939394;
   background: #fff;
 }
 label {
