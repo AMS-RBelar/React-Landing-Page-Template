@@ -1,5 +1,5 @@
 import { useState } from "react";
-import emailjs from "emailjs-com";
+// import emailjs from "emailjs-com";
 import React from "react";
 
 const initialState = {
@@ -17,29 +17,29 @@ export const Contact = (props) => {
   const clearState = () => setState({ ...initialState });
   
   
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    console.log(name, email, message);
+  // const handleSubmit = (e) => {
+  //   e.preventDefault();
+  //   console.log(name, email, message);
     
-    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
+  //   {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
-    emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
-      .then(
-        (result) => {
-          console.log(result.text);
-          clearState();
-        },
-        (error) => {
-          console.log(error.text);
-        }
-      );
-  };
+  //   emailjs
+  //     .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+  //     .then(
+  //       (result) => {
+  //         console.log(result.text);
+  //         clearState();
+  //       },
+  //       (error) => {
+  //         console.log(error.text);
+  //       }
+  //     );
+  // };
   return (
     <div>
       <div id="contact">
         <div className="container">
-          <div className="col-md-8">
+          {/* <div className="col-md-8">
             <div className="row">
               <div className="section-title">
                 <h2>Contact Me</h2>
@@ -97,8 +97,8 @@ export const Contact = (props) => {
                 </button>
               </form>
             </div>
-          </div>
-          <div className="col-md-3 col-md-offset-1 contact-info">
+          </div> */}
+          {/* <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
               <h3>Contact Info</h3>
               <p>
@@ -124,7 +124,7 @@ export const Contact = (props) => {
                 {props.data ? props.data.email : "loading"}
               </p>
             </div>
-          </div>
+          </div> */}
           <div className="col-md-12">
             <div className="row">
               <div className="social">
@@ -150,7 +150,7 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
-      <div id="footer">
+      {/* <div id="footer">
         <div className="container text-center">
           <p>
             &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
@@ -159,7 +159,7 @@ export const Contact = (props) => {
             </a>
           </p>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

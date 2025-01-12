@@ -4,18 +4,18 @@
     "paragraph": "The technology you use impresses no one. The experience you create with it is everything."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Throughout my life I have been interested in both Technology and Business and how the two interact with each other. Because of this, my passions include Integration, specifically integrating together applications that wouldn't natively communicate, Data Management, and Software Development. My goal is to utilize technology to innovate new and better products for business application either internally or for clients. I believe mentorship is pivotol for the next generation of engineers & developers. Leading effectively & prioritizing ownership when possible is necessary for a strong team.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "9+ Years in Software Development",
+      "9+ Years in IT / Network / Infrastructure",
+      "5+ Years in Software Architecture & Design",
+      "3+ Years in Management & Leadership"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "C#, Node.JS, Python",
+      "SQL, NoSQL, Database Management",
+      "HTML, CSS, React (JS & TS)",
+      "Communication, Mentorship, & Organizational Skills"
     ]
   },
   "Gallery": [
@@ -68,32 +68,32 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
+      "name": "FMS:Connect",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
+      "name": "Homepage Builder",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
+      "name": "Conference Presentations",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
+      "name": "Infrastructure Management & Engineering",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
+      "name": "AI & LLM Utilization",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
+      "name": "Managment & Team Building",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
