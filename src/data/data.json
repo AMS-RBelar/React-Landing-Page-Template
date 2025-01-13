@@ -18,113 +18,79 @@
       "Communication, Mentorship, & Organizational Skills"
     ]
   },
-  "Gallery": [
+  "Portfolio": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "Header": "Meteorology - SSNJ009",
+      "Description": "",
+      "largeImage": "img/rain.jpg",
+      "smallImage": "img/rain.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "Header": "BelarWeather",
+      "Description": "",
+      "largeImage": "img/belarWX.png",
+      "smallImage": "img/belarWX.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "Header": "EFI Tuning",
+      "Description": "",
+      "largeImage": "img/ohana.jpg",
+      "smallImage": "img/ohana.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "Header": "Information Technology",
+      "Description": "",
+      "largeImage": "img/pc.png",
+      "smallImage": "img/pc.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "Header": "Network & Infrastructure",
+      "Description": "",
+      "largeImage": "img/network.png",
+      "smallImage": "img/network.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "Header": "Electronics",
+      "Description": "",
+      "largeImage": "img/rpi.jpg",
+      "smallImage": "img/rpi.jpg"
     }
   ],
-  "Services": [
+  "Accomplishments": [
     {
       "icon": "fa fa-wordpress",
-      "name": "FMS:Connect",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Data Integrations",
+      "text": "I designed and developed a DataBroker platform to facilitate data exchange between systems without native integration, originally built on AWS using Lambda, API Gateway, CloudWatch, EventBridge, and Cognito for secure, scalable infrastructure. As business needs evolved, I refactored the platform into ASP.NET, transitioning from Node.js to C# in a complete redevelopment known as FMS:Connect, focusing on performance, maintainability, and streamlined API integration."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Homepage Builder",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Custom Homepage Builders",
+      "text": "I originally developed AMSDynamix, a configurable homepage builder designed to enhance user experience through dynamic content management, customizable search results, and role-based visibility. The platform offers a vast library of widgets and icons, real-time charting, and flexible reporting tools, empowering users to create informative, visually engaging dashboards tailored to their needs."
     },
     {
       "icon": "fa fa-cloud-download",
       "name": "Conference Presentations",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "I had the incredible opportunity to present at Building Insights - 2024, a milestone I have long aspired to achieve. I delivered a presentation on FMS:Connect showcasing its capabilities in integrating systems and streamlining data exchange within the facilities management industry. I also participated in an open forum discussion alongside industry leaders, engaging directly with prominent clients to address questions about FMS:Workplace (an IWMS)."
     },
     {
       "icon": "fa fa-language",
       "name": "Infrastructure Management & Engineering",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "I manage the stability and security of company infrastructure while balancing daily development responsibilities, ensuring systems remain reliable and secure. My expertise includes setting up and maintaining Azure and EntraID, leveraging AWS Lambda for cloud functions and scheduling tasks, and overseeing virtual machines (VMs) for internal operations. I also manage static IP configurations, DNS services, and ensure proper access controls across all environments to maintain operational integrity."
     },
     {
       "icon": "fa fa-plane",
       "name": "AI & LLM Utilization",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "I leverage OpenAI's large language models (LLMs) to develop advanced AI-driven tools and services, including direct integration with BelarWeather, a React Native app I developed for friends and family (and their extended friends) in my town's immediate area. Beyond implementation, I have guided teams in effectively utilizing OpenAI’s capabilities to create industry-leading chat services while ensuring robust security measures to protect sensitive data and maintain compliance."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Managment & Team Building",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Communication, Mentoring, & Management",
+      "text": "I currently lead, mentor, and manage a highly skilled team of developers and application architects. I work to gather business requirements and translate them into actionable tasks for my team. Committed to mentorship, I prioritize empowering the next generation of engineers by balancing technical guidance with professional development. My communication style adapts to the audience, whether simplifying complex concepts for business stakeholders or engaging in in-depth technical discussions with development teams."
     }
   ],
   "Contact": {
     "address": "Lake Hopatcong, NJ",
     "phone": "201-841-3568",
-    "email": "rbelar21@gmail.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ]
+    "email": "rbelar21@gmail.com"
+  }
 }

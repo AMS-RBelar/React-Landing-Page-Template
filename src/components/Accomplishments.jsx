@@ -1,14 +1,13 @@
 import React from "react";
 
-export const Services = (props) => {
+export const Accomplishments = (props) => {
   return (
-    <div id="services" className="text-center">
-      <div className="container">
+    <div id="Accomplishments" className="text-center">
+      <div className="container-fluid">
         <div className="section-title">
           <h2>Accomplishments</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Below are a list of projects and accomplishments I have completed in my professional career.
           </p>
         </div>
         <div className="row">
